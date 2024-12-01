@@ -5,6 +5,7 @@
 
 #define ARRAY_LENGTH(x) (sizeof(x) / sizeof((x)[0]))  
 
+//ADVENT OF CODE DAY1!
 
 //Bubble sort! ;)
 void sort(int* arr, int size){
